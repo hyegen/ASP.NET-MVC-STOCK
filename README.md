@@ -1,5 +1,2 @@
 # Mvc_Proje
-Mvc Projeler
-
-
-// Mvs yazmışım projeye başlarken kızmayın ;)
+I used simple CRUD operations.
