@@ -1,1 +1,1 @@
-I used simple CRUD operations.
+I've used simple CRUD operations.
